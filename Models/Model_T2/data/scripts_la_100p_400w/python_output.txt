@@ -1,0 +1,5 @@
+cur_PWD: /p/project/fitmulticell/emad/lookahead_fix/set6_yannik/set3/scripts_la_100p_400w
+IP: 10.13.11.68
+PORT: 9457
+PYHTONFILE: run_bimodal.py
+ABC out

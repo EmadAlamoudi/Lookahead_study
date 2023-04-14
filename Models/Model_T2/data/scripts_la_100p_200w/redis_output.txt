@@ -1,0 +1,12 @@
+#### cur_PWD= ####/p/project/fitmulticell/emad/lookahead_fix/set6_yannik/set3/scripts_la_100p_200w
+#### PORT= ####9727
+#### This is the redis script job ####
+4571:C 20 Sep 2022 17:04:55.002 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+4571:C 20 Sep 2022 17:04:55.002 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=4571, just started
+4571:C 20 Sep 2022 17:04:55.002 # Configuration loaded
+4571:M 20 Sep 2022 17:04:55.004 # Not listening to IPv6: unsupported
+4571:M 20 Sep 2022 17:04:55.004 * Running mode=standalone, port=9727.
+4571:M 20 Sep 2022 17:04:55.004 # Server initialized
+4571:M 20 Sep 2022 17:04:55.004 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+4571:M 20 Sep 2022 17:04:55.004 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo madvise > /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled (set to 'madvise' or 'never').
+4571:M 20 Sep 2022 17:04:55.006 * Ready to accept connections
