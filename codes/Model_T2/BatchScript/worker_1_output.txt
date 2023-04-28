@@ -1,5 +1,0 @@
-cur_PWD: /home/ealamoodi/lookahead-study/Models/T1_ODE/BatchScript
-IP: 10.118.52.20
-PORT: 7402
-TIME: 24:00:00
-PYHTONFILE: 
